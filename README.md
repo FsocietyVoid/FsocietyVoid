@@ -1,51 +1,84 @@
-### Yash Bhujbal 
+<h1 align="center"> 
+  Hey there! 👋 I'm Yash Bhujbal  
+</h1>  
 
-## Welcome to My GitHub Profile
+<p align="center">
+  🚀 Final-Year Engineering Student | Cybersecurity Enthusiast | FinTech & AI Explorer  
+</p>  
 
-### About Me
-
-Hello and welcome to my GitHub profile! I'm Yash Bhujbal, a Web Designer and Data scientist passionate about Design and Data driven work. I love creating, experimenting, and contributing to open-source projects. This README serves as a brief introduction to who I am and what you can expect to find in my repositories.
-
-### 🌱 What I'm Currently Working On
-
-- Weather Forcasting : A simple web project using HTML, CSS and Js, I was learnig about web dev and this was my project to show case the my skills
-- Career Pilot: This is my College Mini-project where my team developed a web App for the 12th passed student who had decided to pursue engineering but confused about which domain they want to choose, So career pilot helps those student to choose better domain, best suited to there career interest.
-- Webpage cloning and redesigning: As I'm Interested in Web designing, So i recreate those existing web pages and redesign with my own style.
-
-### 🔭 My Interests
-
-- Cyber-Security : I have keen interest in Cyber-security and Network, So trying find Buggs and solving it to the possible outcome.
-- Web-Design: As today world is more attracted towards the sight of aesthetic, I developed that interest with web develop coz of by tech background
-- Data Science : In this data driven era, data science and other realted things to data have greater demand, so that eexictes me.
-
-### 📚 My Skills
-
-- Full Stack Web-Dev: 
-- Tableua : Another 
-- Product Designing: 
-
-### 💼 Work Experience
-
-- Founder at Yidam Studio: Your role, dates worked, and a brief description.
-- 
-### 🚀 My GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FsocietyVoid&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📫 How to Reach Me
-
-You can reach out to me via email at yashbhujbal2030@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-bhujbal-740ab5229/) for professional inquiries.
-
-### 🤝 Let's Collaborate
-
-I'm always open to collaborating on exciting projects. If you have an idea or just want to chat, feel free to drop me a message. I'd love to hear from you!
-
-### ⭐ My Repositories
-
-Don't forget to check out my repositories to see what I've been working on. Your feedback and contributions are always appreciated.
-
-Thank you for visiting my GitHub profile. Let's build something amazing together! 😊
-
-**Happy Coding!** 🚀
+<p align="center">
+  <a href="https://github.com/FsocietyVoid"><img src="https://img.shields.io/github/followers/FsocietyVoid?label=Follow&style=social"></a>
+  <a href="https://x.com/Yashbhujbal_19"><img src="https://img.shields.io/twitter/follow/Yashbhujbal_19?style=social"></a>
+  <a href="https://linkedin.com/in/yash-bhujbal-740ab5229/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+</p>  
 
 ---
+
+### 🚀 About Me  
+
+👋 Hi, I'm Yash Bhujbal, a tech-savvy entrepreneur with a passion for design and cybersecurity. 💻🔒
+With a strong background in technology and an eye for aesthetics, I thrive at the intersection of creativity and security. As an entrepreneur, I am driven to leverage innovative solutions to solve complex problems and enhance user experiences.
+Whether it's developing cutting-edge software, designing intuitive user interfaces, or safeguarding digital ecosystems, I am committed to delivering excellence in both form and function. 
+- 💻 Passionate about **Cybersecurity, Financial Tech, and AI**  
+- 🌱 Always learning and building innovative projects!  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+```yaml
+Programming:  Python, C++, JavaScript, SQL  
+Web Dev:      MERN Stack, Node.js, Firebase, Bootstrap  
+Security:     Penetration Testing, Web Security, Linux (Kali)  
+Finance:      Stock Market Analysis, Risk Metrics, Data Analytics  
+Cloud & Tools: Google Cloud (GCP), Git, APIs, NLP  
+
+```
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FsocietyVoid&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FsocietyVoid&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FsocietyVoid&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/FsocietyVoid">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/yash-bhujbal-740ab5229/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Yashbhujbal_19">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+  <a href="mailto:yashbhujbal2030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>  
+
+
+💡 *"Code, Secure, Innovate!"* 🚀  
+
+
+
