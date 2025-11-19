@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">
-  🚀 CS Engineering | Cybersecurity Enthusiast | FinTech & AI Explorer  
+  🚀 CS Engineer | Cybersecurity Enthusiast | FinTech & AI Explorer  
 </p>  
 
 <p align="center">
