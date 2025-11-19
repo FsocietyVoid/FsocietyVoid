@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">
-  🚀 Final-Year Engineering Student | Cybersecurity Enthusiast | FinTech & AI Explorer  
+  🚀 CS Engineering | Cybersecurity Enthusiast | FinTech & AI Explorer  
 </p>  
 
 <p align="center">
