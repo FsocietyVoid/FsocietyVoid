@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yash%20Bhujbal&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=18&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Yash%20Bhujbal&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Fullstack-Engineer%20%7C%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=18&descColor=a0aec0)
 
 <h1>Hey, I'm Yash Bhujbal</h1>
 
