@@ -51,7 +51,7 @@ Whether it's designing cinematic, minimalist user interfaces or configuring comp
 
 ## 🚀 Featured Architecture & Projects
 
-### 🛡️ PulseBoard
+### 🛡️ TrustTrace - SRE telemetry dashboard
 **Professional-Grade SRE & Cyber-Geopolitical Intel Dashboard**
 - **Architecture**: Modular clean architecture emphasizing system observability and a security-first approach.
 - **Tech Stack**: Go, gRPC, Grafana, prometheus, docker. 
